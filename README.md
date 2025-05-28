@@ -1,8 +1,2 @@
 # Bike-share-analysis-case-study
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-*.html
-*.pdf
-data/*.csv
+This repository contains my data analysis for the Cyclistic bike-share case study.  
